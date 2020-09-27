@@ -1,7 +1,7 @@
 ## Agoda File Compression Assignment (JAVA)
 
 This program compresses files and folders into a set of compressed files such that of each
-compressed file doesnâ€™t exceed a maximum size. This program can be used for
+compressed file doesn't exceed a maximum size. This program can be used for
 decompressing the files that it has generated earlier. The output of the decompression should be
 identical to the original input of the compression process.
 
