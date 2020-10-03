@@ -1,4 +1,4 @@
-## Agoda File Compression Assignment (JAVA)
+## File Compression Assignment (JAVA)
 
 This program compresses files and folders into a set of compressed files such that of each
 compressed file doesn't exceed a maximum size. This program can be used for
